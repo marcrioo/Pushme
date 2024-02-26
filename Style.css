@@ -5,3 +5,17 @@ body {
     color: green;
     
 }
+.video-container {
+    position: relative;
+    text-align: center;
+    
+}
+.title {
+    color: black;
+    font-weight: bold;
+    font-style: Calibri;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+}
